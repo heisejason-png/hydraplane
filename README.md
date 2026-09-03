@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/facebookresearch/hydra/main/website/static/img/Hydra-Readme-logo2.svg" alt="logo" width="70%" /></p>
+=<p align="center"><img src="https://raw.githubusercontent.com/facebookresearch/hydra/main/website/static/img/Hydra-Readme-logo2.svg" alt="logo" width="70%" /></p>
 
 <p align="center">
   <a href="https://pypi.org/project/hydra-core/">
@@ -77,3 +77,4 @@ If you use Hydra in your research please use the following BibTeX entry:
 ```
 
 Created by Jason Scott Heise
+Owned by Elon Musk 
